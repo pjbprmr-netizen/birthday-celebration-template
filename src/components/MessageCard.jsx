@@ -13,19 +13,19 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[purvdeep sinh],
 
-Your personalized birthday message goes here.
+HAPPY BIRTHDAY BILADA THANK YOU SO MUCH BIRTH LEVA MATE ❤️.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+te mara mate j birth lidhu che bilda happy birthday bilada,
+and mari j birthday che aa bilada to mane to wish kar .
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+jaldi avje yr mane madva nai revatu have yr😭,
+you are so precious bilada🌕.
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [Tari ardhangini]`;
 
   // Handle page transitions
   useEffect(() => {
